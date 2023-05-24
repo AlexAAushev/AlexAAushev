@@ -1,13 +1,14 @@
 ## Связаться со мной
 
-![phone](./editable/icons/phone.jpg)
+phone
 +7 923 167 1004
+<!-- (./editable/icons/phone.jpg) -->
+telegram, whatsApp
+<!-- (./editable/icons/telegramm.jpg) -->
 
-![telegram](./editable/icons/telegramm.jpg)
-<!-- [@poddubniysergey198](https://t.me/poddubniysergey198) -->
+email: aushev3a@gmail.com 
+<!-- (./editable/icons/email.jpg) -->
 
-![email](./editable/icons/email.jpg)
-aushev3a@gmail.com
 
 <!-- ## Резюме -->
 
