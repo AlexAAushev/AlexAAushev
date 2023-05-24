@@ -71,7 +71,7 @@ aushev3a@gmail.com
 </table>
 
 ### Android
-- [Приложения - учебные работы](https://git@github.com:AlexAAushev/practicals_works_android.git):
+- [Приложения - учебные работы](https://github.com/AlexAAushev/practicals_works_android.git):
 
 (Kotlin, Корутины, Flow, MVVM, Clean Architecture, Многомодульность, DataStore, Room, Retrofit2, Hilt, Glide, Viewpager2, Navigation)
 
