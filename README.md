@@ -11,12 +11,12 @@ email: aushev3a@gmail.com
 
 
 ## Резюме
-- [Резюме Android-developer](https://docs.google.com/document/d/1r1-9zjzHgyxHQE_gW-5rBn_n13a-2AxThhxWK1vqlu0/edit).
+- [Резюме Android-developer](https://docs.google.com/document/d/1r1-9zjzHgyxHQE_gW-5rBn_n13a-2AxThhxWK1vqlu0/edit?usp=share_link).
 
 # Меня зовут Александр, я Android-разработчик.
 <!-- (./diplom/.pdf) -->
 - Увлекаюсь компьютерами, программированием, фото/видео- съемка, монтаж, редактирование.
-- Образование высшее техническое [диплом](https://drive.google.com/drive/u/0/my-drive).
+- Образование высшее техническое [диплом](https://drive.google.com/file/d/1uPK1Zlw1QBgCMeVRrrVVQ49MxBR5muLd/view?usp=share_link).
 - Студент программы профессиональной переводготовки в Skillbox (Android-разработчик)
 - Совершенствуюсь  в разработке мобильных приложений для Android. В своих проектах уверенно использую  Kotlin.
 - В свободное время занимаюсь спортом (горные лыжи, единобордства), путешествую с семьей.
