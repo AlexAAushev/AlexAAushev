@@ -70,9 +70,8 @@ email: aushev3a@gmail.com
 </table>
 
 ### Android
-- [Приложения - учебные работы](https://github.com/AlexAAushev/practicals_works_android.git):
-
-(Kotlin, Coroutines, Flow, MVVM, Clean Architecture,SQLite, Room, Retrofit, Hilt, Glide, Viewpager, Navigation)
+- [Приложение-опрос](https://github.com/AlexAAushev/practicals_works_android.git):
+Kotlin, Fragment, ConstraintLayout, Animation, Android X Navigation, Lottie.
 
 ### Media
 - [YouTube](https://www.youtube.com/@studio3AAA/featured) 
