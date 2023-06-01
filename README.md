@@ -70,7 +70,7 @@ email: aushev3a@gmail.com
 </table>
 
 ### Android
-- [Приложение-опрос](https://github.com/AlexAAushev/practicals_works_android.git):
+- [Приложение-опрос: ](https://github.com/AlexAAushev/quiz_application.git)
 Kotlin, Fragment, ConstraintLayout, Animation, Android X Navigation, Lottie.
 
 ### Media
