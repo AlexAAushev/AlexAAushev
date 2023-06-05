@@ -61,6 +61,7 @@ email: aushev3a@gmail.com
         <li>Retrofit</li>
         <li>SQLite (Room)</li>
         <li>Dagger/Hilt</li>
+        <li>Koin</li>
         <li>Navigation</li>
         <li>Firebase</li>
         <li>Coroutines/Flow</li>
