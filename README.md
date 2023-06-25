@@ -74,5 +74,7 @@ email: aushev3a@gmail.com
 - [Приложение-опрос: ](https://github.com/AlexAAushev/quiz_application.git)
 Kotlin, Fragment, ConstraintLayout, Animation, Android X Navigation, Lottie.
 
+- [Приложение Photo Collections: ](https://github.com/AlexAAushev/photo-collections.git)
+
 ### Media
 - [YouTube](https://www.youtube.com/@studio3AAA/featured) 
