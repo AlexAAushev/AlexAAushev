@@ -72,10 +72,11 @@ email: aushev3a@gmail.com
 </table>
 
 ### Android
-- [Приложение-опрос: ](https://github.com/AlexAAushev/quiz_application.git)
-Kotlin, Fragment, ConstraintLayout, Animation, Android X Navigation, Lottie.
+- [Приложение-опрос ](https://github.com/AlexAAushev/quiz_application.git)
 
-- [Приложение Photo Collections: ](https://github.com/AlexAAushev/photo-collections.git)
+- [Приложение Photo Collections ](https://github.com/AlexAAushev/photo-collections.git)
+
+- [Приложение Attestation-work ](https://github.com/AlexAAushev/attestation-finale-work.git)
 
 ### Media
 - [YouTube](https://www.youtube.com/@studio3AAA/featured) 
