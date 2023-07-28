@@ -1,9 +1,10 @@
 ## Связаться со мной
 
-phone
+phone:
 +7 923 167 1004
 <!-- (./editable/icons/phone.jpg) -->
-telegram, whatsApp
+telegram:
+@aaaushev
 <!-- (./editable/icons/telegramm.jpg) -->
 
 email: aushev3a@gmail.com 
@@ -11,11 +12,11 @@ email: aushev3a@gmail.com
 
 
 ## Резюме
-- [Резюме Android-developer](https://docs.google.com/document/d/1r1-9zjzHgyxHQE_gW-5rBn_n13a-2AxThhxWK1vqlu0/edit?usp=share_link).
+- [Резюме Android-developer](https://docs.google.com/document/d/1SOs7oIc6VuRzmtiPhwvwsLFATvTB3SluRXfkDNbw6Z4/edit?usp=sharing).
 
 # Меня зовут Александр, я Android-разработчик.
 <!-- (./diplom/.pdf) -->
-- Увлекаюсь компьютерами, программированием, фото/видео- съемка, монтаж, редактирование.
+- Увлекаюсь Android-разработкой, программированием, фото/видео- съемка, монтаж, редактирование.
 - Образование:
 -    высшее техническое [диплом](https://drive.google.com/file/d/1uPK1Zlw1QBgCMeVRrrVVQ49MxBR5muLd/view?usp=share_link).
 -    курс профессиональной переводготовки в Skillbox - "Android-разработчик"
