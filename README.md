@@ -12,7 +12,7 @@ email: aushev3a@gmail.com
 
 
 ## Резюме
-- [Резюме Android-developer](https://docs.google.com/document/d/1SOs7oIc6VuRzmtiPhwvwsLFATvTB3SluRXfkDNbw6Z4/edit?usp=sharing).
+- [Резюме Android-разработчик](https://docs.google.com/document/d/1SOs7oIc6VuRzmtiPhwvwsLFATvTB3SluRXfkDNbw6Z4/edit?usp=sharing)
 
 # Меня зовут Александр, я Android-разработчик.
 <!-- (./diplom/.pdf) -->
