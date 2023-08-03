@@ -72,6 +72,8 @@ email: aushev3a@gmail.com
   </tr>
 </table>
 
+## Мои проекты
+
 ### Android
 - [Приложение-опрос ](https://github.com/AlexAAushev/quiz_application.git)
 
