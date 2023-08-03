@@ -19,7 +19,7 @@ email: aushev3a@gmail.com
 - Увлекаюсь Android-разработкой, программированием, фото/видео- съемка, монтаж, редактирование.
 - Образование:
   -  высшее техническое ([диплом](https://drive.google.com/file/d/1uPK1Zlw1QBgCMeVRrrVVQ49MxBR5muLd/view?usp=share_link)).
-  -  курс профессиональной переводготовки в Skillbox - "Android-разработчик" ([диплом](https://drive.google.com/file/d/1DfLaqQyjLgo7jhVxBWl9RxaJ4lLiL5OB/view?usp=sharing)). 
+  -  курс профессиональной переводготовки - "Android-разработчик" ([диплом](https://drive.google.com/file/d/1DfLaqQyjLgo7jhVxBWl9RxaJ4lLiL5OB/view?usp=sharing)). 
 - Совершенствуюсь  в разработке мобильных приложений для Android. В своих проектах уверенно использую  Kotlin.
 - В свободное время занимаюсь спортом (горные лыжи, единоборства), путешествую с семьей.
 
