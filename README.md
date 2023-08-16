@@ -1,15 +1,16 @@
 ## Связаться со мной
 
-phone:
+![call-icon_3](https://github.com/AlexAAushev/AlexAAushev/assets/126689986/78348a8d-1ca3-4017-b4d8-7fd6c064359c)
+ Phone:
 +7 923 167 1004
 <!-- (./editable/icons/phone.jpg) -->
-telegram:
+![telegram](https://github.com/AlexAAushev/AlexAAushev/assets/126689986/39859596-dda6-4b97-ab34-b68b06e70c3c)
+ Telegram: 
 @aaaushev
 <!-- (./editable/icons/telegramm.jpg) -->
-
-email: aushev3a@gmail.com 
+![mail_2](https://github.com/AlexAAushev/AlexAAushev/assets/126689986/a00baab1-93b1-452e-b18d-93d5c4b0d85f)
+ Email: aushev3a@gmail.com 
 <!-- (./editable/icons/email.jpg) -->
-
 
 ## Резюме
 - [Резюме Android developer](https://docs.google.com/document/d/1SOs7oIc6VuRzmtiPhwvwsLFATvTB3SluRXfkDNbw6Z4/edit?usp=sharing)
