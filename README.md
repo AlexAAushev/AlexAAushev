@@ -1,6 +1,6 @@
 ## Связаться со мной
 
-![call-icon_3](https://github.com/AlexAAushev/AlexAAushev/assets/126689986/78348a8d-1ca3-4017-b4d8-7fd6c064359c)
+![call-icon_2](https://github.com/AlexAAushev/AlexAAushev/assets/126689986/73d2fd64-ca45-4529-93b8-6744a8268095)
  Phone:
 +7 923 167 1004
 <!-- (./editable/icons/phone.jpg) -->
@@ -8,7 +8,7 @@
  Telegram: 
 @aaaushev
 <!-- (./editable/icons/telegramm.jpg) -->
-![mail_2](https://github.com/AlexAAushev/AlexAAushev/assets/126689986/a00baab1-93b1-452e-b18d-93d5c4b0d85f)
+![mail_2](https://github.com/AlexAAushev/AlexAAushev/assets/126689986/8662ef0d-363e-4b4c-96d5-4b2fad47d0f7)
  Email: aushev3a@gmail.com 
 <!-- (./editable/icons/email.jpg) -->
 
