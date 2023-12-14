@@ -42,6 +42,7 @@
         <li>ООП, Clean architecture</li>
         <li>Git</li>
         <li>Gradle</li>
+        <li>1С:Предприятие 8.</li>
         <li>Windows</li>
         <li>Adobe Photoshop</li>
         <li>Adobe Premiere</li>
