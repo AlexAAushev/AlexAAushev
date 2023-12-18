@@ -86,7 +86,7 @@
 - [Приложение Attestation-work ](https://github.com/AlexAAushev/attestation-finale-work.git)
 
 ### 1С
-- [Конфигурация торговой организации ](https://drive.google.com/drive/folders/1ZmDlJjE3xNvd7DSyHQ82Nz7SzxXhZVgg?usp=sharing)
+- [Конфигурация торговой организации ](https://github.com/AlexAAushev/organization-configuration)
   
 ### Media
 - [YouTube](https://www.youtube.com/@studio3AAA/featured) 
