@@ -14,6 +14,7 @@
 
 ## Резюме
 - [Резюме Android developer](https://docs.google.com/document/d/1SOs7oIc6VuRzmtiPhwvwsLFATvTB3SluRXfkDNbw6Z4/edit?usp=sharing)
+  
 - [Резюме 1С программист](https://docs.google.com/document/d/1VjMalvcV-Zr2UDAdzOJFQRcNM85KXrZll2WM_MKZYKI/edit?usp=sharing)
 
 # Меня зовут Александр, я Android-разработчик/1С программист
