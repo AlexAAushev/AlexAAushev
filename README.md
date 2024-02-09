@@ -87,6 +87,7 @@
 
 ### 1С
 - [Конфигурация торговой организации ](https://github.com/AlexAAushev/organization-configuration)
+  
 - [PET проект: ООО МебельДомТорг](https://github.com/AlexAAushev/1S_Pet_project.git)
   
 ### Media
